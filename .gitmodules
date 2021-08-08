@@ -4,3 +4,9 @@
 [submodule "Heart-Disease-Predictor"]
 	path = Heart-Disease-Predictor
 	url = https://github.com/sonal-spd/Heart-Disease-Predictor
+[submodule "ML-sl-Projects"]
+	path = ML-sl-Projects
+	url = https://github.com/Lata-Sharan/ML-sl-Projects
+[submodule "HousePricePrediction"]
+	path = HousePricePrediction
+	url = https://github.com/zikra21/HousePricePrediction
