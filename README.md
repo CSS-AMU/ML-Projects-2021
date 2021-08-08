@@ -1,6 +1,12 @@
 # ML Projects
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 > All projects in this folder are git submodules.
+
+These projects were made during CSS Internship 2021 ( Machine Learning )
+
+Related Work : [View ML-Notebooks Repo](https://github.com/CSS-AMU/ML-Notebooks)
 
 ## Clone Repo
 
