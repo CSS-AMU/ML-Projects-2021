@@ -1,0 +1,6 @@
+[submodule "Diabetes-Predictor"]
+	path = Diabetes-Predictor
+	url = https://github.com/Aman-Jamshed/Diabetes-Predictor.git
+[submodule "Heart-Disease-Predictor"]
+	path = Heart-Disease-Predictor
+	url = https://github.com/sonal-spd/Heart-Disease-Predictor
